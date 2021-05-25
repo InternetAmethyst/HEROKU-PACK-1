@@ -1,6 +1,6 @@
 {
-  "name": "DYNAMIC 𝚄𝚂𝙴𝚁𝙱𝙾𝚃",
-  "description": "The best USERBOT MADE BY AMANAPNDEY AND GODBOYX ",
+  "name": "TANDAV X USERBOT",
+  "description": "The best USERBOT MADE BY SIDHARTH AND AMAN ",
   "logo": "https://telegra.ph/file/45b6d89879c66d1ee1270.jpg",
     "keywords": [
     "telegram",
@@ -29,7 +29,7 @@
     },
     "ALIVE_NAME": {
       "description": "Leave As It Is.",
-      "value": "DYNAMIC USER",
+      "value": "",
       "required": false
     },
     "PM_PERMIT_GROUP_ID": {
