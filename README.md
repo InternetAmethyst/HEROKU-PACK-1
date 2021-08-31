@@ -1,8 +1,4 @@
 ## DYNAMIC USERBOT BASED ON TELETHON OP BOT 
 
-## CREDITS 
-## OWNER & DEV @AMANPANDEYDEVELOPERIN
-## CO OWNER AND DEV @GODBOYX
-
 ## Deploy
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/amanpandey7647/HEROKU-PACK-1/"> [<img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />]
